@@ -1,0 +1,11 @@
+C:\Users\matth\workspace\bookOneBangazon\employeesList\bin\Debug\netcoreapp2.2\employeesList.deps.json
+C:\Users\matth\workspace\bookOneBangazon\employeesList\bin\Debug\netcoreapp2.2\employeesList.runtimeconfig.json
+C:\Users\matth\workspace\bookOneBangazon\employeesList\bin\Debug\netcoreapp2.2\employeesList.runtimeconfig.dev.json
+C:\Users\matth\workspace\bookOneBangazon\employeesList\bin\Debug\netcoreapp2.2\employeesList.dll
+C:\Users\matth\workspace\bookOneBangazon\employeesList\bin\Debug\netcoreapp2.2\employeesList.pdb
+C:\Users\matth\workspace\bookOneBangazon\employeesList\obj\Debug\netcoreapp2.2\employeesList.csprojAssemblyReference.cache
+C:\Users\matth\workspace\bookOneBangazon\employeesList\obj\Debug\netcoreapp2.2\employeesList.csproj.CoreCompileInputs.cache
+C:\Users\matth\workspace\bookOneBangazon\employeesList\obj\Debug\netcoreapp2.2\employeesList.AssemblyInfoInputs.cache
+C:\Users\matth\workspace\bookOneBangazon\employeesList\obj\Debug\netcoreapp2.2\employeesList.AssemblyInfo.cs
+C:\Users\matth\workspace\bookOneBangazon\employeesList\obj\Debug\netcoreapp2.2\employeesList.dll
+C:\Users\matth\workspace\bookOneBangazon\employeesList\obj\Debug\netcoreapp2.2\employeesList.pdb
